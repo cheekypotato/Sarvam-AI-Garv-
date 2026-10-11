@@ -1,0 +1,22 @@
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Local data (may contain real customer names from ledger photos)
+data/
+*.db
+uploads/
+fixtures/private/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

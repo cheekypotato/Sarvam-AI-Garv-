@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "date": "10/10/2026",
+      "customer_name": "Sharma ji",
+      "description": "आटा 10kg, सरसों का तेल 2L",
+      "amount": 1250.0,
+      "entry_type": "credit_given"
+    },
+    {
+      "date": "10/10/2026",
+      "customer_name": "Gupta Sahab",
+      "description": "चावल 5kg, चीनी 2kg",
+      "amount": 820.0,
+      "entry_type": "credit_given"
+    },
+    {
+      "date": "11/10/2026",
+      "customer_name": "Ramesh Bhai",
+      "description": "अरहर दाल 2kg, मसाले",
+      "amount": 450.0,
+      "entry_type": "credit_given"
+    },
+    {
+      "date": "11/10/2026",
+      "customer_name": "Sharma ji",
+      "description": "नकद भुगतान (Cash payment)",
+      "amount": 500.0,
+      "entry_type": "payment_received"
+    },
+    {
+      "date": "12/10/2026",
+      "customer_name": "Verma ji",
+      "description": "दूध, बटर और घी 1kg",
+      "amount": 650.0,
+      "entry_type": "credit_given"
+    },
+    {
+      "date": "12/10/2026",
+      "customer_name": "Gupta Sahab",
+      "description": "UPI भुगतान",
+      "amount": 820.0,
+      "entry_type": "payment_received"
+    },
+    {
+      "date": "12/10/2026",
+      "customer_name": "Sunil Kumar",
+      "description": "साबुन, सर्फ, चायपत्ती",
+      "amount": 340.0,
+      "entry_type": "credit_given"
+    }
+  ]
+}

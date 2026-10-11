@@ -1,0 +1,6 @@
+sarvamai
+streamlit
+python-dotenv
+rapidfuzz
+pandas
+pytest
